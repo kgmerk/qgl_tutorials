@@ -1,0 +1,6 @@
+<RCC>
+    <qresource lang="GLSL" prefix="/">
+        <file>SimpleTransform.vert</file>
+        <file>SingleColor.frag</file>
+    </qresource>
+</RCC>

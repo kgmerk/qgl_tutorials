@@ -1,0 +1,7 @@
+<RCC>
+    <qresource lang="GLSL" prefix="/">
+        <file>TextureFragmentShader.frag</file>
+        <file>TransformVertexShader.vert</file>
+        <file>uvtemplate.bmp</file>
+    </qresource>
+</RCC>

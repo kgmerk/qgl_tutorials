@@ -1,0 +1,7 @@
+This project uses CMake instead of qmake because the 
+assimp library builds with qmake.  You must have CMake
+installed <www.cmake.org>.  Run the cmake-gui and point
+to the CMakeList.txt in this directory.  The assimp library
+doesn't read from a Qt resource file so you will have to 
+make sure that the .obj file (suzanne.obj) resides in the
+same directory as the executable.

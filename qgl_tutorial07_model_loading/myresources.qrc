@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>VertShader.vsh</file>
+        <file>FragShader.fsh</file>
+        <file>uvmap.DDS</file>
+        <file>suzanne.obj</file>
+        <file>uvtemplate.bmp</file>
+    </qresource>
+</RCC>

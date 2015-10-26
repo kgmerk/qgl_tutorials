@@ -1,0 +1,6 @@
+<RCC>
+    <qresource lang="GLSL" prefix="/">
+        <file>SimpleVertexShader.vert</file>
+        <file>SimpleFragmentShader.frag</file>
+    </qresource>
+</RCC>
